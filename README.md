@@ -2,7 +2,8 @@
 
 Hosting a Static Website on Amazon S3
 
-This project will walk you through the steps to host a static website on Amazon S3, one of the most cost-effective and scalable solutions present.
+This guide will help you host a static website on Amazon S3, a scalable and cost-effective solution.
+
 
 Prerequisites :
 1. AWS Account: You will need an AWS account to use S3.
